@@ -1,0 +1,6 @@
+fullName = john travolta
+age = 68
+gender = m
+companyName = hollywood
+jobTitle = actor
+salary = 98765432
